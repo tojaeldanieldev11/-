@@ -1,8 +1,8 @@
 {
-    "Version": 33,
+    "Version": 1,
     "ReleaseNotes": "null",
-    "Sms": "https://999geniodev.cu.ma/update/temp/sms",
-    "UrlUpdate": "https://raw.githubusercontent.com/999Genio-tech/-/refs/heads/main/psd.acc",
+    "Sms": "https://raw.githubusercontent.com/tojaeldanieldev11/-/refs/heads/main/sms.json",
+    "UrlUpdate": "https://raw.githubusercontent.com/tojaeldanieldev11/-/refs/heads/main/psd.acc",
     "EmailFeedback": "null",
     "UrlContato": "null",
     "UrlTermos": "null",
