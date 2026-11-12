@@ -1,0 +1,99 @@
+{
+    "Version": 33,
+    "ReleaseNotes": "null",
+    "Sms": "https://999geniodev.cu.ma/update/temp/sms",
+    "UrlUpdate": "https://raw.githubusercontent.com/999Genio-tech/-/refs/heads/main/psd.acc",
+    "EmailFeedback": "null",
+    "UrlContato": "null",
+    "UrlTermos": "null",
+    "CheckUser": "true",
+    "Udp": [
+        {
+            "Porta": "7300"
+        },
+        {
+            "Porta": "7200"
+        },
+        {
+            "Porta": "2200"
+        }
+    ],
+    "Servers": [
+        {
+            "Name": "🗓🗓🗓🗓 Suporta 500 usuarios | 🗓👾",
+            "TYPE": "gratis",
+            "FLAG": "Is.png",
+            "ServerIP": "directo.elver.online",
+            "CheckUser": "http://",
+            "ServerPort": 80,
+            "SSLPort": 443,
+            "USER": "genisvpn",
+            "PASS": "genisvpn"
+        },
+        {
+            "Name": "🗓🗓🗓🗓⚽🏀🎾 | suporta 500 usuários 🇦🇴 ",
+            "TYPE": "gratis",
+            "FLAG": "fr.png",
+            "ServerIP": "directo.elver.online",
+            "CheckUser": "http://",
+            "ServerPort": 443,
+            "SSLPort": 443,
+            "USER": "genisvpn",
+            "PASS": "genisvpn"
+        },
+        {
+            "Name": "🗓🗓🗓⚽🎾🏀 aposta | 300 usuarios suporte ",
+            "TYPE": "gratis",
+            "FLAG": "cs.png",
+            "ServerIP": "id1.nrs-premium.web.id",
+            "CheckUser": "http://",
+            "ServerPort": 443,
+            "SSLPort": 443,
+            "USER": "aril",
+            "PASS": "56"
+        },
+        {
+            "Name": "🗓🗓🗓🗓Russia | Fast Net 🆔🆔",
+            "TYPE": "gratis",
+            "FLAG": "ru.png",
+            "ServerIP": "vpn.nadia-lestari.my.id",
+            "CheckUser": "http://",
+            "ServerPort": 443,
+            "SSLPort": 443,
+            "USER": "nadia",
+            "PASS": "nadia"
+        }
+    ],
+    "Networks": [
+        {
+            "Name": "🇦🇴MOVICEL🔴",
+            "FLAG": "oi",
+            "Payload": "GET /? HTTP/1.0[lf]Host: [app_host][lf]Upgrade: websocket[lf]Connection: Keep-AliveUser-Agent: [ua]Referer: [lf][lf]",
+            "SNI": "[app_host]",
+            "TlsIP": "104.16.251.55",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "🇲🇿 🗓vodafone ",
+            "FLAG": "claro",
+            "Payload": "GET / HTTP/1.1[crlf]Host: directo.elver.online[crlf]Upgrade: websocket[crlf][crlf]",",
+            "SNI": "www.mymuze.com",
+            "TlsIP": "",
+            "ProxyIP": "www.mymuze.com",
+            "ProxyPort": "443",
+            "Info": "Ssl"
+        },
+        {
+            "Name": "unlimeted | Social🇦🇴",
+            "FLAG": "vivo",
+            "Payload": "[method] [host_port] HTTP/1.1[crlf]Host: Twitter.com[crlf]Upgrade: websocket[crlf]Connection: Keep-Alive[crlf][crlf]]",
+            "SNI": "",
+            "TlsIP": "Twitter.com",
+            "ProxyIP": "",
+            "ProxyPort": "80",
+            "Info": "Direct"
+        }
+    ]
+}
